@@ -1,42 +1,7 @@
-<link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css" rel="stylesheet"></link>
+# 仓库介绍
 
-# 使用指南
+本仓库用于存储我的本地笔记，包括机器学习、计算机知识框架、高效工具等。笔记使用 Markdown 编辑，使用[中文文案排版](https://github.com/sparanoid/chinese-copywriting-guidelines)作为格式规范。
 
-## 1使用外部资源扩展Markdown
+原本使用有道云笔记作为我的笔记存储工具，但是由于研究生升学后对于数学公式的需求开始增多，才开始接触 Markdown 及 LaTex，但是有道云笔记的 Markdown 不支持 css 渲染，故使用 Typora 作为本地 Markdown 笔记工具，同时在 github 上建立仓库，作为云端保存和版本控制工具，欢迎大家阅读和 Star 我的笔记！
 
-
-
-### 1.1插入 LaTeX 数学公式
-
-因为使用 github 作为云端仓库，其不支持 LaTeX 格式，故使用 codecogs 的云服务完成 github 上的 Markdown 展示 LaTeX 数学公式。
-
-该方法引自[知乎Deep Reader的回答](https://www.zhihu.com/question/26887527/answer/43166739)
-
-```html
-<img src="http://latex.codecogs.com/gif.latex?\ 此处填写LaTeX公式代码" />
-```
-
-实例效果如下：
-
-<img src="http://latex.codecogs.com/gif.latex?\frac{\partial J}{\partial \theta_k^{(j)}}=\sum_{i:r(i,j)=1}{\big((\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\big)x_k^{i}}+\lambda \theta_k^{(j)}" />
-
-### 1.2使用CSS样式渲染Markdown
-
-
-
-## 2格式
-
-|   操作   |               格式                |
-| :------: | :-------------------------------: |
-| 插入链接 | \[此处填写显示文本](此处填写链接) |
-| 插入表格 |                                   |
-|          |                                   |
-|          |                                   |
-|          |                                   |
-|          |                                   |
-|          |                                   |
-|          |                                   |
-|          |                                   |
-
-
-
+由于对于开源许可证的不了解，本仓库暂未选择任何许可证。
