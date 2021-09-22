@@ -8,6 +8,8 @@
 
 # pytorch 教程
 
-[1pytorch介绍和安装](https://github.com/mooneed/MyCloudNotes/blob/main/%E5%88%9B%E4%BD%9C/pytorch/1pytorch%E4%BB%8B%E7%BB%8D%E5%92%8C%E5%AE%89%E8%A3%85.md)
-　　[2pytorch简单实现线性回归](https://github.com/mooneed/MyCloudNotes/blob/main/%E5%88%9B%E4%BD%9C/pytorch/2pytorch%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.md)
+[1pytorch介绍和安装](https://github.com/mooneed/MyCloudNotes/blob/main/%E5%88%9B%E4%BD%9C/pytorch/1pytorch%E4%BB%8B%E7%BB%8D%E5%92%8C%E5%AE%89%E8%A3%85.md)  
+　　[2pytorch简单实现线性回归](https://github.com/mooneed/MyCloudNotes/blob/main/%E5%88%9B%E4%BD%9C/pytorch/2pytorch%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.md)  
+
+
 
